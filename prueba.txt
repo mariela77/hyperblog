@@ -1,4 +1,1 @@
-
-hola mi nombre es Mariela
-
-estoy aprendiendo a usar git
+prueba de errores
