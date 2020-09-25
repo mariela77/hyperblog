@@ -1,8 +1,9 @@
 body 
 {
-    color: pink;
+    background: #33A;
+    color: green;
     text-align: center;
-    font-family: courier;
+    font-family: arial;
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -40,5 +41,6 @@ body
 }
 #post
 {
+    background: white;
     padding: 1em;
 }
