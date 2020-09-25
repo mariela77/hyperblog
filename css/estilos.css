@@ -1,7 +1,12 @@
 body 
 {
+<<<<<<< HEAD
     background: lightskyblue;
     color: green;
+=======
+    background-color: grey;
+    color: pink;
+>>>>>>> footer
     text-align: center;
     font-family: arial;
     font-size: 16px;
