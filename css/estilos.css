@@ -1,6 +1,6 @@
 body 
 {
-    background: #33A;
+    background: lightskyblue;
     color: green;
     text-align: center;
     font-family: arial;
@@ -43,4 +43,12 @@ body
 {
     background: white;
     padding: 1em;
+}
+#footer
+{
+    background-color: sandybrown;
+    color: brown;
+    text-align: center;
+    padding: 1em
+    
 }
