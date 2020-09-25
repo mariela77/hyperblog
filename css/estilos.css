@@ -1,5 +1,6 @@
 body 
 {
+    background-color: grey;
     color: pink;
     text-align: center;
     font-family: courier;
@@ -41,4 +42,9 @@ body
 #post
 {
     padding: 1em;
+}
+#footer
+{
+    color: white;
+    background-color: orange;
 }
