@@ -1,12 +1,9 @@
 body 
 {
-<<<<<<< HEAD
     background: lightskyblue;
     color: green;
-=======
     background-color: grey;
     color: pink;
->>>>>>> footer
     text-align: center;
     font-family: arial;
     font-size: 16px;
@@ -51,8 +48,8 @@ body
 }
 #footer
 {
-    background-color: sandybrown;
-    color: brown;
+    background-color: #33A;
+    color: white;
     text-align: center;
     padding: 1em
     
